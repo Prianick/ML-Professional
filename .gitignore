@@ -1,0 +1,6 @@
+.venv
+dataset
+.DS_Store
+tn-spikes-clipper
+example
+catboost_info
