@@ -2,5 +2,6 @@
 dataset
 .DS_Store
 tn-spikes-clipper
+tn-rebalancing
 example
 catboost_info
